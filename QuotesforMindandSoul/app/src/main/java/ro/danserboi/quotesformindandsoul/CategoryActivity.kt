@@ -103,7 +103,7 @@ class CategoryActivity : AppCompatActivity(), LoaderManager.LoaderCallbacks<Stri
                 }
             }
         }
-    }// We set ProgressBar while loading
+    }
 
     // Get category String and create queryString
     private val categoryQuotes: Unit
